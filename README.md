@@ -12,7 +12,7 @@ AI-powered Python application that converts natural language into executable MyS
 ## Setup
  1. Clone the Repository
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/Ruddykraft/AutoSQL.git
     cd autosql
 
  2. Configure MySQL Credentials
